@@ -9,6 +9,6 @@ resources:
 - worker/
 
 commonLabels:
-  purpose: voteapp
+  purpose: voting
 
-namespace: voteapp
+namespace: voting
